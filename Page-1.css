@@ -1775,14 +1775,7 @@
 
 .u-section-12 .u-text-7 {
   width: 417px;
-  margin: 91px auto 0;
-}
-
-.u-section-12 .u-btn-2 {
-  background-image: none;
-  border-style: none none solid;
-  margin: 321px auto 60px;
-  padding: 0;
+  margin: 91px auto 60px;
 }
 
 @media (max-width: 575px) {
